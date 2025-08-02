@@ -18,11 +18,6 @@ Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 Jupyter Notebook
 
-(Optional) Power BI / Tableau for dashboards
-
-(Optional) Scikit-learn for regression or clustering
-
-
 🎯 Objective:
 To apply data analysis techniques in understanding global economic trends and support data-driven decision making in the context of policy, business, or academic research.
 
